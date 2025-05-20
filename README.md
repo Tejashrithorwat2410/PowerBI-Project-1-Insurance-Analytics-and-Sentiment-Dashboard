@@ -65,10 +65,15 @@ Key Insights:
 
 
 🧠 Technical Implementation Highlights
+
     ✔ Connected MS SQL Server datasets
+    
     ✔ Used Row-Level Security to restrict data by user roles
+    
     ✔ Enabled Scheduled Data Refresh to keep the report updated
+    
     ✔ Applied Drill through pages for deeper customer/policy analysis
+    
     ✔ Implemented sentiment classification with a scoring model
 
 
